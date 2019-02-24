@@ -1,0 +1,10 @@
+{
+  "name": "analytics",
+  "version": "1.0.0",
+  "dependencies": {
+    "lodash": "latest"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.118"
+  }
+}
